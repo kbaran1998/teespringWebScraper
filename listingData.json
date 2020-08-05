@@ -1,0 +1,47 @@
+{
+    "title": "No Wifi, No problem",
+    "description": "Add some fun when you have no Wifi in Google Chrome with this funny No Wifi design or give it as the perfect gift!\nChoose your size and color below. Then proceed to BUY IT NOW to place your order.",
+    "baseURL": "https://teespring.com/new-no-wifi-no-problem?tsmac=store&tsmic=compsci-store&pid=",
+    "products": [
+        {
+            "id": "389",
+            "name": "Classic Tee",
+            "imageLink": "https://vangogh.teespring.com/v3/image/3YowzQMB-EC7h6BOkB2Qtc1fKyw/960/1120.jpg"
+        },
+        {
+            "id": "650",
+            "name": "Indoor Pillow",
+            "imageLink": "https://vangogh.teespring.com/v3/image/8YW2G9la6qN1z89GWcuR1RANFxE/960/1120.jpg"
+        },
+        {
+            "id": "377",
+            "name": "Standard College Hoodie",
+            "imageLink": "https://vangogh.teespring.com/v3/image/BnzPeRyHk1yPg_wAKDEUOrENl-w/960/1120.jpg"
+        },
+        {
+            "id": "1026",
+            "name": "Cloth Face Mask",
+            "imageLink": "https://vangogh.teespring.com/v3/image/Xj1mvUJ9v_OAW13s492tCbMoIH8/960/1120.jpg"
+        },
+        {
+            "id": "707",
+            "name": "Samsung Case",
+            "imageLink": "https://vangogh.teespring.com/v3/image/q-dfuzrqYBMKk1bLwxTYxSEopXg/960/1120.jpg"
+        },
+        {
+            "id": "649",
+            "name": "iPhone Case",
+            "imageLink": "https://vangogh.teespring.com/v3/image/wS6PtZe8VgrIU7mF5hFLvZx1pPo/960/1120.jpg"
+        },
+        {
+            "id": "661",
+            "name": "Sticker",
+            "imageLink": "https://vangogh.teespring.com/v3/image/i_CME_PGCMS-79UncN0Ajt5VFxY/960/1120.jpg"
+        },
+        {
+            "id": "379",
+            "name": "Classic Long Sleeve Tee",
+            "imageLink": "https://vangogh.teespring.com/v3/image/1VMgAHvWdliTlM89TymvKoc1LVs/960/1120.jpg"
+        }
+    ]
+}
